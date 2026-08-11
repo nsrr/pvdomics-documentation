@@ -31,9 +31,9 @@ Clinical measurements taken at baseline include:
 
 ### HSAT or PSG collection
 
-One night of unattended home sleep apnea test data was collected in participants’ homes using the NOX-T3, Carefusion (Becton, Dickinson, Franklin Lakes, NJ). 
+One night of unattended home sleep apnea test data was collected in participants’ homes using the NOX-T3, Carefusion (Becton, Dickinson, Franklin Lakes, NJ) following the PVDOMICS study protocol. 
 
-If the participant had a sleep study done within 1 year of enrollment, then it is at the discretion of the Center PI as to whether this “alternative” clinical sleep study can be accepted, or if an additional PVDOMICS research sleep study should be performed.
+If the participant had a sleep study done  within one year prior to or six months after the study participation window, or had clinical sleep studies conducted during the PVDOMICS period, then it is at the discretion of the Center PI as to whether this “alternative” sleep study can be accepted, or if an additional PVDOMICS protocol sleep study should be performed.
 
 The HSAT montage included the following channels: 
 
