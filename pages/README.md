@@ -126,4 +126,9 @@ Users must include the following text in any Acknowledgements section:
 
 > The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
 
+## References
+
+PVDOMICS on the National Sleep Research Resource (NSRR): http://sleepdata.org/datasets/pvdomics
+PVDOMICS on NSRR GitHub Data Dictionary: https://github.com/nsrr/pvdomics-data-dictionary
+PVDOMICS on ClinicalTrials.gov: https://clinicaltrials.gov/study/NCT02980887
 
