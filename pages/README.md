@@ -33,7 +33,7 @@ Clinical measurements taken at baseline include:
 
 One night of unattended home sleep apnea test data was collected in participants’ homes using the NOX-T3, Carefusion (Becton, Dickinson, Franklin Lakes, NJ) following the PVDOMICS study protocol. 
 
-If the participant had a sleep study done  within one year prior to or six months after the study participation window, or had clinical sleep studies conducted during the PVDOMICS period, then it is at the discretion of the Center PI as to whether this “alternative” sleep study can be accepted, or if an additional PVDOMICS protocol sleep study should be performed.
+If the participant had a sleep study done within one year prior to or six months after the study participation window, or had clinical sleep studies conducted during the PVDOMICS period, then it is at the discretion of the Center PI as to whether this “alternative” sleep study can be accepted, or if an additional PVDOMICS protocol sleep study should be performed.
 
 The HSAT montage included the following channels: 
 
@@ -50,9 +50,9 @@ The HSAT montage included the following channels:
 - body position at 200 Hz  
 
 
-### HSAT scoring
+### HSAT or PSG scoring
 
-Sleep studies were scored using standardized methods for home sleep apnea testing and will conform to American Academy of Sleep Medicine (AASM) guidelines . The scoring event definitions are listed below:
+Sleep studies collected as part of the PVDOMICS core study protocol were scored using standardized methods for home sleep apnea testing and will conform to American Academy of Sleep Medicine (AASM) guidelines. The scoring event definitions are listed below:
 
 - Epoch Interval: consecutive segments of 30 seconds.
 
@@ -65,6 +65,10 @@ Sleep studies were scored using standardized methods for home sleep apnea testin
 - Hypopnea events were scored if peak signal excursion is reduced by >30% of the pre-event baseline using nasal pressure transducer lasting for >10 seconds and associated with >3% oxygen desaturation.
 
 - Periodic breathing was defined as airflow or inductance channels increasing and decreasing at least 50% from the maximum, in a cyclic waxing and waning or "sinusoidal" manner for a consecutive period of >10 min.
+
+Alternative sleep studies received from external laboratories may differ in study type, acquisition procedures, and respiratory event scoring criteria.
+
+The NSRR team recommends using metrics derived from the PVDOMICS core study protocol for analyses requiring consistent respiratory event definitions. Combined variables incorporate data from heterogeneous source studies and should be interpreted and used with caution.
 
 
 ## Data de-identification
