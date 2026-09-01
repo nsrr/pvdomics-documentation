@@ -68,7 +68,7 @@ Sleep studies collected as part of the PVDOMICS core study protocol were scored 
 
 Alternative sleep studies received from external laboratories may differ in study type, acquisition procedures, and respiratory event scoring criteria.
 
-** The NSRR team recommends using metrics derived from the PVDOMICS core study protocol for analyses requiring consistent respiratory event definitions. Combined variables incorporate data from heterogeneous source studies and should be interpreted and used with caution. **
+**The NSRR team recommends using metrics derived from the PVDOMICS core study protocol for analyses requiring consistent respiratory event definitions. Combined variables incorporate data from heterogeneous source studies and should be interpreted and used with caution.**
 
 
 ## Data de-identification
