@@ -33,7 +33,7 @@ Clinical measurements taken at baseline include:
 
 One night of unattended home sleep apnea test data was collected in participants’ homes using the NOX-T3, Carefusion (Becton, Dickinson, Franklin Lakes, NJ) following the PVDOMICS study protocol. 
 
-If the participant had a sleep study done within one year prior to or six months after the study participation window, or had clinical sleep studies conducted during the PVDOMICS period, then it is at the discretion of the Center PI as to whether this “alternative” sleep study can be accepted, or if an additional PVDOMICS protocol sleep study should be performed.
+If the participant had a sleep study done within one year prior to or six months after the study participation window, or had clinical sleep studies conducted during the PVDOMICS period, then it is at the discretion of the Center PI as to whether this **“alternative”** sleep study can be accepted, or if an additional PVDOMICS protocol sleep study should be performed.
 
 The HSAT montage included the following channels: 
 
@@ -68,7 +68,7 @@ Sleep studies collected as part of the PVDOMICS core study protocol were scored 
 
 Alternative sleep studies received from external laboratories may differ in study type, acquisition procedures, and respiratory event scoring criteria.
 
-The NSRR team recommends using metrics derived from the PVDOMICS core study protocol for analyses requiring consistent respiratory event definitions. Combined variables incorporate data from heterogeneous source studies and should be interpreted and used with caution.
+** The NSRR team recommends using metrics derived from the PVDOMICS core study protocol for analyses requiring consistent respiratory event definitions. Combined variables incorporate data from heterogeneous source studies and should be interpreted and used with caution. **
 
 
 ## Data de-identification
@@ -87,6 +87,8 @@ The dataset columns are described in the accompanying data dictionary files. The
 The history of the covariate datasets and data dictionary files have been tracked on GitHub (<https://github.com/nsrr/pvdomics-data-dictionary>).
 
 The harmonized-dataset contains many of the most frequently used demographic and sleep variables. These variables were curated by the NSRR team to allow ready inter-operability with other NSRR datasets.
+
+The NSRR-harmonized sleep variables are derived only from participants who completed the PVDOMICS core protocol sleep studies, which used standardized equipment and clearly defined respiratory event scoring criteria.
 
 |  |  |
 |------------------------------------|------------------------------------|
