@@ -105,7 +105,7 @@ Raw polysomnography data are available for 703 subjects[JM1.1]. Each recording h
 
 ## Access and usage restrictions
 
-Access to the data is unrestricted except for data from Johns Hopkins University, which requires IRB approval and is only available for non-profit organizations.
+The PVDOMICS dataset is only available for non-commercial use.
 
 ## Citation and acknowledgements
 
@@ -128,3 +128,4 @@ Users must include the following text in any Acknowledgements section:
 - PVDOMICS on the National Sleep Research Resource (NSRR): <http://sleepdata.org/datasets/pvdomics>
 - PVDOMICS on NSRR GitHub Data Dictionary: <https://github.com/nsrr/pvdomics-data-dictionary>
 - PVDOMICS on ClinicalTrials.gov: <https://clinicaltrials.gov/study/NCT02980887>
+- PVDOMICS sleep study reference article:<https://pmc.ncbi.nlm.nih.gov/articles/PMC11060475/> 
