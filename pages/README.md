@@ -30,7 +30,7 @@ Clinical measurements taken at baseline include:
 
 ### HSAT or PSG collection
 
-One night of unattended home sleep apnea test data was collected in participants’ homes using the NOX-T3, Carefusion (Becton, Dickinson, Franklin Lakes, NJ) following the PVDOMICS study protocol.
+One night of unattended home sleep apnea test data was collected in participants’ homes using the Nox-T3, Carefusion (Becton, Dickinson, Franklin Lakes, NJ) following the PVDOMICS study protocol.
 
 If the participant had a sleep study done within one year prior to or six months after the study participation window, or had clinical sleep studies conducted during the PVDOMICS period, then it is at the discretion of the Center PI as to whether this **“alternative”** sleep study can be accepted, or if an additional PVDOMICS protocol sleep study should be performed.
 
@@ -99,9 +99,14 @@ The NSRR-harmonized sleep variables are derived only from participants who compl
 | [nsrr_odi_dsge3](:variables_path:/nsrr_odi_dsge3) | Oxygen Desaturation Index (3%) |
 | [nsrr_odi_dsge4](:variables_path:/nsrr_odi_dsge4) | Oxygen Desaturation Index (4%) |
 
-### HSAT signal file
+### HSAT signal and annotation files (EDF/annot)
 
-Raw polysomnography data are available for 703 subjects[JM1.1]. Each recording has a signal file (.EDF) and two versions of the event scoring andand epoch staging annotations (.XML). 1. EDF - Signal files in the European Data Format exported from Compumedics Profusion. 2. XML (Profusion) - Annotation files exported from Compumedics Profusion. 3. XML (NSRR) - Annotation files processed in the EDF Editor and Translator tool. NSRR XML files can be overlaid onto EDF signal files using the EDF Viewer tool. For more information about the XML translation (mapping) process, review the files available on the EDF Editor and Translator Releases page.
+- Available for 536 PVDOMICS subjects.
+- Raw HSAT data recorded with Nox-T3 system.
+- Annotations scored manually per AASM criteria.
+- Scored events include apneas, hypopneas, arousals.
+- Lights-out/on annotated by technician.
+- [NSRR-harmonized files](:files_path:/harmonized) available ([read about the NSRR harmonization process](https://gitlab-scm.partners.org/zzz-public/nsrr/-/tree/master/studies?ref_type=heads))
 
 ## Access and usage restrictions
 
